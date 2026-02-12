@@ -1,3 +1,5 @@
+account_id = "d79936dc75aadec7b5c762c04eef4a78"
+
 name = "lager"
 compatibility_date = "2026-02-12"
 pages_build_output_dir = "./dist"
