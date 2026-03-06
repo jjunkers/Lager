@@ -467,7 +467,7 @@ const Admin = () => {
                                                 {notif.title}
                                             </p>
                                             <span className="text-[10px] text-gray-400 font-medium shrink-0">
-                                                {new Date(notif.created_at).toLocaleTimeString('da-DK', { hour: '2-digit', minute: '2-digit' })}
+                                                {new Date(notif.created_at).toLocaleDateString('da-DK', { day: '2-digit', month: '2-digit' })} {new Date(notif.created_at).toLocaleTimeString('da-DK', { hour: '2-digit', minute: '2-digit' })}
                                             </span>
                                         </div>
                                         <p className="text-sm text-gray-600 dark:text-gray-400 mt-0.5">{notif.message}</p>
@@ -546,8 +546,9 @@ const Admin = () => {
                                                 </div>
                                             </td>
                                             <td className="p-4 text-right pr-6 flex items-center justify-end space-x-3">
-                                                <span className="text-xs text-gray-400">
-                                                    {new Date(item.received_at).toLocaleDateString('da-DK', { day: '2-digit', month: 'short', year: 'numeric' })}
+                                                <span className="text-[10px] text-gray-400 flex flex-col items-end leading-tight">
+                                                    <span>{new Date(item.received_at).toLocaleDateString('da-DK', { day: '2-digit', month: '2-digit', year: 'numeric' })}</span>
+                                                    <span>kl. {new Date(item.received_at).toLocaleTimeString('da-DK', { hour: '2-digit', minute: '2-digit' })}</span>
                                                 </span>
                                                 {item.status === 'Slettet' && (
                                                     <button
