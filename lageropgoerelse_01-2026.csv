@@ -1,0 +1,105 @@
+month,section,code,no,da,sv,all
+01-2026,Bibler,nwt,2,4,1,7
+01-2026,Bibler,andrebibler,0,0,0,0
+01-2026,Bøger,be,0,0,0,0
+01-2026,Bøger,bhs,4,0,4,8
+01-2026,Bøger,bt,0,0,0,0
+01-2026,Bøger,cf,2,0,2,4
+01-2026,Bøger,cl,0,0,0,0
+01-2026,Bøger,ia,0,1,0,1
+01-2026,Bøger,jy,0,1,1,2
+01-2026,Bøger,kr,0,0,0,0
+01-2026,Bøger,lfb,0,0,0,0
+01-2026,Bøger,lff,2,8,10,20
+01-2026,Bøger,lr,0,0,0,0
+01-2026,Bøger,lvs,0,0,0,0
+01-2026,Bøger,od,0,3,1,4
+01-2026,Bøger,rr,0,2,0,2
+01-2026,Bøger,scl,0,0,0,0
+01-2026,Bøger,sjj,0,1,3,4
+01-2026,Bøger,sjjls,0,0,0,0
+01-2026,Bøger,yp1,0,0,2,2
+01-2026,Bøger,yp2,2,0,1,3
+01-2026,Bøger,andrebøger1,2,2,2,6
+01-2026,Bøger,andrebøger2,1,0,1,2
+01-2026,Brochurer,ed,0,0,0,0
+01-2026,Brochurer,fg,19,2,15,36
+01-2026,Brochurer,hf,2,2,2,6
+01-2026,Brochurer,hl,0,0,0,0
+01-2026,Brochurer,jl,11,0,7,18
+01-2026,Brochurer,la,0,0,0,0
+01-2026,Brochurer,lc,22,11,4,37
+01-2026,Brochurer,lf,28,22,8,58
+01-2026,Brochurer,lffi,19,47,3,69
+01-2026,Brochurer,ll,8,0,0,8
+01-2026,Brochurer,lmd,0,3,20,23
+01-2026,Brochurer,mb,4,2,4,10
+01-2026,Brochurer,rj,6,0,2,8
+01-2026,Brochurer,rk,0,0,0,0
+01-2026,Brochurer,sp,0,0,0,0
+01-2026,Brochurer,th,2,8,3,13
+01-2026,Brochurer,wfg,0,0,0,0
+01-2026,Brochurer,yc,3,8,2,13
+01-2026,Brochurer,ypq,0,0,0,0
+01-2026,Brochurer,andrebroch1,5,5,8,18
+01-2026,Brochurer,andrebroch2,0,0,0,0
+01-2026,Brochurer,andrebroch3,0,0,0,0
+01-2026,Foldere,inv,0,0,0,0
+01-2026,Foldere,t-30,439,866,710,2015
+01-2026,Foldere,t-31,410,954,386,1750
+01-2026,Foldere,t-32,418,1006,1484,2908
+01-2026,Foldere,t-33,213,870,588,1671
+01-2026,Foldere,t-34,507,820,772,2099
+01-2026,Foldere,t-35,1022,945,1244,3211
+01-2026,Foldere,t-36,527,743,968,2238
+01-2026,Foldere,t-37,217,668,515,1400
+01-2026,Foldere,t-dth,0,0,0,0
+01-2026,Foldere,t-fam,0,0,0,0
+01-2026,Foldere,t-ftr,0,0,0,0
+01-2026,Foldere,t-god,0,0,0,0
+01-2026,Foldere,t-jss,0,0,0,0
+01-2026,Foldere,t-kng,0,0,0,0
+01-2026,Foldere,t-pry,0,0,0,0
+01-2026,Foldere,t-rlg,0,0,0,0
+01-2026,Foldere,t-sfr,0,70,0,70
+01-2026,Formularer,jwcd1,550,0,520,1070
+01-2026,Formularer,jwcd10,430,770,0,1200
+01-2026,Formularer,jwcd4,0,0,0,0
+01-2026,Formularer,jwcd9,385,227,377,989
+01-2026,Formularer,s-24,0,0,0,0
+01-2026,Formularer,s-4,0,0,0,0
+01-2026,Offentlige blade,g18.1,0,0,0,0
+01-2026,Offentlige blade,g18.2,20,45,19,84
+01-2026,Offentlige blade,g18.3,40,39,39,118
+01-2026,Offentlige blade,g19.1,0,0,0,0
+01-2026,Offentlige blade,g19.2,0,0,0,0
+01-2026,Offentlige blade,g19.3,0,0,0,0
+01-2026,Offentlige blade,g20.1,1,44,38,83
+01-2026,Offentlige blade,g20.2,0,0,0,0
+01-2026,Offentlige blade,g20.3,0,0,0,0
+01-2026,Offentlige blade,g21.1,0,0,2,2
+01-2026,Offentlige blade,g21.2,0,20,1,21
+01-2026,Offentlige blade,g21.3,2,40,26,68
+01-2026,Offentlige blade,g22.1,4,27,13,44
+01-2026,Offentlige blade,g23.1,26,8,8,42
+01-2026,Offentlige blade,g24.1,29,23,18,70
+01-2026,Offentlige blade,g25.1,12,30,32,74
+01-2026,Offentlige blade,wp18.1,0,0,0,0
+01-2026,Offentlige blade,wp18.2,5,12,0,17
+01-2026,Offentlige blade,wp18.3,33,34,40,107
+01-2026,Offentlige blade,wp19.1,32,29,26,87
+01-2026,Offentlige blade,wp19.2,0,0,0,0
+01-2026,Offentlige blade,wp19.3,0,0,0,0
+01-2026,Offentlige blade,wp20.1,0,0,0,0
+01-2026,Offentlige blade,wp20.2,13,22,20,55
+01-2026,Offentlige blade,wp20.3,0,0,0,0
+01-2026,Offentlige blade,wp21.1,0,38,28,66
+01-2026,Offentlige blade,wp21.2,106,345,318,769
+01-2026,Offentlige blade,wp21.3,0,8,16,24
+01-2026,Offentlige blade,wp22.1,4,29,11,44
+01-2026,Offentlige blade,wp23.1,0,4,0,4
+01-2026,Offentlige blade,wp24.1,10,0,1,11
+01-2026,Offentlige blade,wp25.1,0,0,0,0
+01-2026,Offentlige blade,andreblade1,0,0,0,0
+01-2026,Offentlige blade,andreblade2,0,0,0,0
+01-2026,Offentlige blade,andreblade3,0,0,0,0

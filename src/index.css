@@ -1,18 +1,53 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
 
 :root {
   font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 body {
   margin: 0;
-  background-color: #f9fafb; /* Gray-50 */
+  background-color: #111827;
+  /* Gray-900 */
+  color: white;
+}
+
+/* Mobile bottom nav globe pulse */
+@keyframes globe-pulse {
+
+  0%,
+  100% {
+    box-shadow: 0 4px 14px rgba(59, 130, 246, 0.3);
+  }
+
+  50% {
+    box-shadow: 0 4px 20px rgba(59, 130, 246, 0.5), 0 0 0 6px rgba(59, 130, 246, 0.1);
+  }
+}
+
+.globe-pulse-btn {
+  animation: globe-pulse 3s infinite ease-in-out;
+}
+
+/* Safe area padding for iOS home indicator */
+.pb-safe {
+  padding-bottom: max(0.5rem, env(safe-area-inset-bottom));
 }
 
 /* Custom scrollbar for webkit */
@@ -25,10 +60,116 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #cbd5e1; /* Slate-300 */
+  background: #cbd5e1;
+  /* Slate-300 */
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #94a3b8; /* Slate-400 */
+  background: #94a3b8;
+  /* Slate-400 */
+}
+
+@media print {
+
+  /* Hide sidebar and navigation */
+  aside,
+  nav,
+  button,
+  input[type="text"],
+  input[type="search"] {
+    display: none !important;
+  }
+
+  /* Reset background and text colors for print */
+  body,
+  main,
+  div {
+    background-color: white !important;
+    color: black !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  /* Expand main content */
+  main {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  /* Report table specific adjustments */
+  table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    font-size: 9pt !important;
+    color: black !important;
+  }
+
+  th,
+  td {
+    padding: 6px 8px !important;
+    border: 1px solid #e2e8f0 !important;
+    /* slate-200 */
+  }
+
+  /* Force background colors and colors to print */
+  * {
+    print-color-adjust: exact !important;
+    -webkit-print-color-adjust: exact !important;
+  }
+
+  /* Section headers in simplified print table */
+  .print-only-header {
+    background-color: #f1f5f9 !important;
+    /* slate-100 */
+    font-weight: 800 !important;
+  }
+
+  /* Zebra striping for print */
+  tr:nth-child(even) {
+    background-color: #f8fafc !important;
+    /* slate-50 */
+  }
+
+  /* Ensure rows don't break awkwardly */
+  tr {
+    page-break-inside: avoid;
+  }
+
+  /* Disable sticky headers for print */
+  thead,
+  th,
+  td,
+  tr {
+    position: static !important;
+  }
+
+  .print-header {
+    display: block !important;
+    text-align: left;
+    margin-bottom: 20px;
+    font-size: 16pt;
+    font-weight: 800;
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+  }
+
+  .print-hidden {
+    display: none !important;
+  }
+
+  /* Fix for dark mode overriding */
+  .dark\:bg-gray-900,
+  .dark\:bg-gray-800,
+  .dark\:bg-gray-50 {
+    background-color: white !important;
+  }
+
+  .dark\:text-white,
+  .dark\:text-gray-100,
+  .dark\:text-gray-300 {
+    color: black !important;
+  }
 }

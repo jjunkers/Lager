@@ -1,0 +1,9 @@
+account_id = "d79936dc75aadec7b5c762c04eef4a78"
+name = "lager-app"
+compatibility_date = "2024-04-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "lager-db"
+database_id = "0a8d0000-a44c-477d-bdfb-c1c12a8767d5"
+

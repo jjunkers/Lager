@@ -1,0 +1,75 @@
+[
+    {
+        "version": "2026.02.016",
+        "date": "2026-02-25",
+        "changes": [
+            "Rettigheds-opgradering: Almindelige brugere og Læse-brugere kan ikke længere rette i lager-antal.",
+            "Læse-bruger er nu helt spærret fra Bestil-siden.",
+            "Implementeret server-side rolle-validering for øget sikkerhed."
+        ]
+    },
+    {
+        "version": "2026.02.015",
+        "date": "2026-02-25",
+        "changes": [
+            "Implementeret drag-and-drop i publikationskataloget.",
+            "Nyt visuelt 'håndtag' (grip handle) til admin-brugere.",
+            "Automatisk batch-opdatering af rækkefølge i databasen.",
+            "Reordering deaktiveres automatisk under søgning for at undgå fejl."
+        ]
+    },
+    {
+        "version": "2026.02.014",
+        "date": "2026-02-24",
+        "changes": [
+            "Høj-kontrast Indigo badges til sprog i admin visninger.",
+            "Sprog-visning tilføjet til Bestillingshistorik.",
+            "Fikset fejl ved bestilling af \"Anden Publikation\" (special-bestillinger).",
+            "Søgefeltet tømmes nu automatisk efter hver bestilling.",
+            "Faner hopper ikke længere når man vælger forslag i \"Anden Publikation\".",
+            "Nulstil-knap sletter nu også historik og notifikationer.",
+            "Versionshistorik tilføjet (denne visning!)."
+        ]
+    },
+    {
+        "version": "2026.02.013",
+        "date": "2026-02-24",
+        "changes": [
+            "Ændret terminologi fra \"Vare\" til \"Publikation\".",
+            "Nyt design på Dashboard med regions-farver.",
+            "Implementeret \"Mine Bestillinger\" til brugere.",
+            "Forbedret \"Bestil\" knap til mobil.",
+            "Restriktion af note-felt til admin/superuser.",
+            "Standardmåned sat til forrige måned.",
+            "Diverse tidszone-rettelser."
+        ]
+    },
+    {
+        "version": "2026.02.012",
+        "date": "2026-02-21",
+        "changes": [
+            "Mobile navigation finpudset.",
+            "Log ud flyttet ind i landevælger-modalen.",
+            "Forbedret layout på navigationsbar."
+        ]
+    },
+    {
+        "version": "2026.02.011",
+        "date": "2026-02-18",
+        "changes": [
+            "Fuldt navn integration i hele systemet.",
+            "Automatiseret flytning af anmodninger til mangelliste.",
+            "Hurtig-modtagelse med lager-opdatering.",
+            "Redigerbar modtagelses-antal i Tracking."
+        ]
+    },
+    {
+        "version": "2026.02.010",
+        "date": "2026-02-15",
+        "changes": [
+            "Backlog og notifikations-system færdiggjort.",
+            "Backup & Restore fejlrettelser.",
+            "Fejlrettelse af katalog-eksport."
+        ]
+    }
+]

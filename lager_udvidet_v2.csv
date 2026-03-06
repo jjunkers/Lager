@@ -1,0 +1,105 @@
+section;code;name_no;name_da;name_sv
+Bibler;nwt;nwt-n;nwt-d;nwt-z
+Bibler;andrebibler;andrebibler-n;andrebibler-d;andrebibler-z
+Bøger;be;be-n;be-d;be-z
+Bøger;bhs;bhs-n;bhs-d;bhs-z
+Bøger;bt;bt-n;bt-d;bt-z
+Bøger;cf;cf-n;cf-d;cf-z
+Bøger;cl;cl-n;cl-d;cl-z
+Bøger;ia;ia-n;ia-d;ia-z
+Bøger;jy;jy-n;jy-d;jy-z
+Bøger;kr;kr-n;kr-d;kr-z
+Bøger;lfb;lfb-n;lfb-d;lfb-z
+Bøger;lff;lff-n;lff-d;lff-z
+Bøger;lr;lr-n;lr-d;lr-z
+Bøger;lvs;lvs-n;lvs-d;lvs-z
+Bøger;od;od-n;od-d;od-z
+Bøger;rr;rr-n;rr-d;rr-z
+Bøger;scl;scl-n;scl-d;scl-z
+Bøger;sjj;sjj-n;sjj-d;sjj-z
+Bøger;sjjls;sjjls-n;sjjls-d;sjjls-z
+Bøger;yp1;yp1-n;yp1-d;yp1-z
+Bøger;yp2;yp2-n;yp2-d;yp2-z
+Bøger;andrebøger1;andrebøger1-n;andrebøger1-d;andrebøger1-z
+Bøger;andrebøger2;andrebøger2-n;andrebøger2-d;andrebøger2-z
+Brochurer;ed;ed-n;ed-d;ed-z
+Brochurer;fg;fg-n;fg-d;fg-z
+Brochurer;hf;hf-n;hf-d;hf-z
+Brochurer;hl;hl-n;hl-d;hl-z
+Brochurer;jl;jl-n;jl-d;jl-z
+Brochurer;la;la-n;la-d;la-z
+Brochurer;lc;lc-n;lc-d;lc-z
+Brochurer;lf;lf-n;lf-d;lf-z
+Brochurer;lffi;lffi-n;lffi-d;lffi-z
+Brochurer;ll;ll-n;ll-d;ll-z
+Brochurer;lmd;lmd-n;lmd-d;lmd-z
+Brochurer;mb;mb-n;mb-d;mb-z
+Brochurer;rj;rj-n;rj-d;rj-z
+Brochurer;rk;rk-n;rk-d;rk-z
+Brochurer;th;th-n;th-d;th-z
+Brochurer;wfg;wfg-n;wfg-d;wfg-z
+Brochurer;ypq;ypq-n;ypq-d;ypq-z
+Brochurer;andrebroch1;andrebroch1-n;andrebroch1-d;andrebroch1-z
+Brochurer;andrebroch2;andrebroch2-n;andrebroch2-d;andrebroch2-z
+Brochurer;andrebroch3;andrebroch3-n;andrebroch3-d;andrebroch3-z
+Brochurer;yc;yc-n;yc-d;yc-z
+Brochurer;sp;sp-n;sp-d;sp-z
+Formularer;jwcd1;jwcd1-n;jwcd1-d;jwcd1-z
+Formularer;jwcd4;jwcd4-n;jwcd4-d;jwcd4-z
+Formularer;jwcd9;jwcd9-n;jwcd9-d;jwcd9-z
+Formularer;jwcd10;jwcd10-n;jwcd10-d;jwcd10-z
+Formularer;S-4;S-4-n;S-4-d;S-4-z
+Formularer;S-24;S-24-n;S-24-d;S-24-z
+Foldere;inv;inv-n;inv-d;inv-z
+Foldere;T-30;T-30-n;T-30-d;T-30-z
+Foldere;T-31;T-31-n;T-31-d;T-31-z
+Foldere;T-32;T-32-n;T-32-d;T-32-z
+Foldere;T-33;T-33-n;T-33-d;T-33-z
+Foldere;T-34;T-34-n;T-34-d;T-34-z
+Foldere;T-35;T-35-n;T-35-d;T-35-z
+Foldere;T-36;T-36-n;T-36-d;T-36-z
+Foldere;T-37;T-37-n;T-37-d;T-37-z
+Foldere;T-dth;T-dth-n;T-dth-d;T-dth-z
+Foldere;T-fam;T-fam-n;T-fam-d;T-fam-z
+Foldere;T-ftr;T-ftr-n;T-ftr-d;T-ftr-z
+Foldere;T-god;T-god-n;T-god-d;T-god-z
+Foldere;T-jss;T-jss-n;T-jss-d;T-jss-z
+Foldere;T-kng;T-kng-n;T-kng-d;T-kng-z
+Foldere;T-pry;T-pry-n;T-pry-d;T-pry-z
+Foldere;T-rlg;T-rlg-n;T-rlg-d;T-rlg-z
+Foldere;T-sfr;T-sfr-n;T-sfr-d;T-sfr-z
+Offentlige blade;g18.1;g18.1-n;g18.1-d;g18.1-z
+Offentlige blade;g18.2;g18.2-n;g18.2-d;g18.2-z
+Offentlige blade;g18.3;g18.3-n;g18.3-d;g18.3-z
+Offentlige blade;g19.1;g19.1-n;g19.1-d;g19.1-z
+Offentlige blade;g19.2;g19.2-n;g19.2-d;g19.2-z
+Offentlige blade;g19.3;g19.3-n;g19.3-d;g19.3-z
+Offentlige blade;g20.1;g20.1-n;g20.1-d;g20.1-z
+Offentlige blade;g20.2;g20.2-n;g20.2-d;g20.2-z
+Offentlige blade;g20.3;g20.3-n;g20.3-d;g20.3-z
+Offentlige blade;g21.1;g21.1-n;g21.1-d;g21.1-z
+Offentlige blade;g21.2;g21.2-n;g21.2-d;g21.2-z
+Offentlige blade;g21.3;g21.3-n;g21.3-d;g21.3-z
+Offentlige blade;g22.1;g22.1-n;g22.1-d;g22.1-z
+Offentlige blade;g23.1;g23.1-n;g23.1-d;g23.1-z
+Offentlige blade;g24.1;g24.1-n;g24.1-d;g24.1-z
+Offentlige blade;g25.1;g25.1-n;g25.1-d;g25.1-z
+Offentlige blade;wp18.1;wp18.1-n;wp18.1-d;wp18.1-z
+Offentlige blade;wp18.2;wp18.2-n;wp18.2-d;wp18.2-z
+Offentlige blade;wp18.3;wp18.3-n;wp18.3-d;wp18.3-z
+Offentlige blade;wp19.1;wp19.1-n;wp19.1-d;wp19.1-z
+Offentlige blade;wp19.2;wp19.2-n;wp19.2-d;wp19.2-z
+Offentlige blade;wp19.3;wp19.3-n;wp19.3-d;wp19.3-z
+Offentlige blade;wp20.1;wp20.1-n;wp20.1-d;wp20.1-z
+Offentlige blade;wp20.2;wp20.2-n;wp20.2-d;wp20.2-z
+Offentlige blade;wp20.3;wp20.3-n;wp20.3-d;wp20.3-z
+Offentlige blade;wp21.1;wp21.1-n;wp21.1-d;wp21.1-z
+Offentlige blade;wp21.2;wp21.2-n;wp21.2-d;wp21.2-z
+Offentlige blade;wp21.3;wp21.3-n;wp21.3-d;wp21.3-z
+Offentlige blade;wp22.1;wp22.1-n;wp22.1-d;wp22.1-z
+Offentlige blade;wp23.1;wp23.1-n;wp23.1-d;wp23.1-z
+Offentlige blade;wp24.1;wp24.1-n;wp24.1-d;wp24.1-z
+Offentlige blade;wp25.1;wp25.1-n;wp25.1-d;wp25.1-z
+Offentlige blade;andreblade1;andreblade1-n;andreblade1-d;andreblade1-z
+Offentlige blade;andreblade2;andreblade2-n;andreblade2-d;andreblade2-z
+Offentlige blade;andreblade3;andreblade3-n;andreblade3-d;andreblade3-z
